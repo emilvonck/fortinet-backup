@@ -1,2 +1,2 @@
 # fortinet-backup
-Ansible plays for backup up configuration for fortinet devices
+Ansible plays for backing up configuration for fortinet devices
