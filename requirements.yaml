@@ -1,5 +1,7 @@
 ---
 collections:
+  - name: fortinet.fortios
+    version: 2.3.5
   - name: https://github.com/emilvonck/fortigate-inventory-ansible
     type: git
     version: main
